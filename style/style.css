@@ -135,10 +135,12 @@ body{
    position: relative;
 }
 .gard-disc{
-   margin-top: -230px;
+   margin-top: -280px;
    margin-left: 200px;
     position: absolute;
     text-align: left;
+    font-family: 'Lilita One', cursive;
+    font-size: 25px;
 }
 
 
