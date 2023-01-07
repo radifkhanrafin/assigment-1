@@ -18,7 +18,7 @@ body{
 }
 /* Header style */
 .banner-container {
-    background-image: url("/images/banner/banner1.png");
+    background-image: url("../images/banner/banner1.png");
     background-repeat: no-repeat;
     display: flex;
     justify-content: end;
@@ -113,7 +113,7 @@ body{
     text-align: center;
 }
 .gardian-section img{
-    background-image: url("./images/watch.png");
+    background-image: url("../images/watch.png");
     background-repeat: no-repeat;
     background-size: cover;
    position: relative;
