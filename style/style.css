@@ -1,0 +1,223 @@
+* {
+    margin: 0%;
+    /* border: 1px solid red; */
+}
+/* common style */
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.primary-btn{
+    margin-top: 20px;
+    padding: 15px 25px;
+    background-color: rgb(224, 54, 6);
+    font-size: 18px;
+    border: none;
+    font-weight: bolder;
+    color: white;
+    border-radius: 5px;
+}
+/* Header style */
+.banner-container {
+    background-image: url("/images/banner/banner1.png");
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+   
+
+}
+.banner-disc{
+    margin-right: 150px;
+    text-align: right;
+}
+.banner-heading{
+    font-size: 75px;
+    font-family: 'Rowdies', cursive;
+}
+.banner-deatils{
+    font-size: 20px;
+    opacity: .5;
+    margin-top: 20px;
+    font-family: 'East Sea Dokdo', cursive;
+}
+
+/* Main section style */
+
+/* My last Year Section */
+.previous-year-section{
+   display: flex;
+   justify-content: space-around;
+    align-items: center;
+}
+.previous-year-section > img{
+
+}
+.previous-year-disc{
+    margin-right: 150px;
+   
+}
+.previous-year-disc h1{
+    font-size: 65px;
+    font-family: 'Rowdies', cursive;
+}
+.previous-year-disc p{
+    font-size: 20px;
+    opacity: .5;
+    margin-top: 20px;
+}
+.list{
+    list-style-type: none;
+    margin-bottom: 5px;
+}
+.list li{
+    margin-top: 12px;
+    font-size: 25px;
+    opacity: .5;
+    font-family: 'East Sea Dokdo', cursive;
+}
+.icon-style{
+    color: rgb(0, 255, 68);
+   
+}
+
+
+/* plan section style */
+.plan-section{
+
+}
+.plan-heading{
+    text-align: center;
+    font-family: 'Rowdies', cursive;
+}
+.plan-card{
+    margin-top: 25px;
+    padding: 20px 180px;
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    text-align: center;
+    padding: 25px 12px;
+}
+.card h1{
+    margin: 15px 1px;
+    font-family: 'Lobster', cursive;
+}
+.card h3{
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* gardian-section */
+.gardian-section{
+    
+    text-align: center;
+   
+}
+.gardian-section img{
+   
+    background-image: url("/images/watch.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+   position: relative;
+}
+.gard-disc{
+   margin-top: -230px;
+   margin-left: 200px;
+    position: absolute;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer style */
+footer{
+    background-color: rgb(40, 37, 37);
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 200px;
+    margin-top: 80px;
+    color: white;
+}
+.future{
+    width: 50%;
+}
+.future h1{
+   
+}
+.future > p{
+    color: darkgrey;
+}
+.future p{
+    opacity: .5;
+    margin-top: 15px;
+    font-size: 18px;
+    color: white;
+}
+.others-link{
+    margin-top: 20px;
+}
+.others-link img{
+    margin-left: 5px;
+    width: 35px;
+}
+/*  */
+.subscribe{
+
+}
+
+.subscribe input{
+    margin: 8px 2px;
+padding: 20px 25px;
+border: none;
+background-color: rgba(128, 128, 128, 0.558);
+display: block;
+border-radius: 5px;
+}
+.subscribe button{
+    margin: 8px 2px;
+padding: 13px 20px;
+border: none;
+color: red;
+font-size: 20px;
+border-radius: 5px;
+}
+
