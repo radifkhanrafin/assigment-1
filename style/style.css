@@ -113,7 +113,7 @@ body{
     text-align: center;
 }
 .gardian-section img{
-    background-image: url("/images/watch.png");
+    background-image: url("./images/watch.png");
     background-repeat: no-repeat;
     background-size: cover;
    position: relative;
