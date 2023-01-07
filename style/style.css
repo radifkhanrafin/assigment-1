@@ -103,32 +103,16 @@ body{
 }
 .card h1{
     margin: 15px 1px;
-    font-family: 'Lobster', cursive;
 }
 .card h3{
     font-family: 'East Sea Dokdo', cursive;
     font-size: 25px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 /* gardian-section */
 .gardian-section{
-    
     text-align: center;
-   
 }
 .gardian-section img{
-   
     background-image: url("/images/watch.png");
     background-repeat: no-repeat;
     background-size: cover;
@@ -139,37 +123,9 @@ body{
    margin-left: 200px;
     position: absolute;
     text-align: left;
-    font-family: 'Lilita One', cursive;
+    font-family: 'Lobster', cursive;
     font-size: 25px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* footer style */
 footer{
     background-color: rgb(40, 37, 37);
